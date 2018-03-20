@@ -138,7 +138,7 @@ def swap_colors(circle, rectangle):
     rectangle.fill_color = x
 
     # ------------------------------------------------------------------
-    # TODO: 2. Implement and test this function.
+    # DONE: 2. Implement and test this function.
     #          Tests have been written for you (above).
     #
     ####################################################################
